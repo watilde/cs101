@@ -1,2 +1,1 @@
-# sorts
-my sorts
+My CS101 in JavaScript
