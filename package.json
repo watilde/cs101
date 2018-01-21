@@ -4,7 +4,7 @@
   "description": "my sorts",
   "main": "index.js",
   "scripts": {
-    "test": "standard"
+    "test": "standard lib/*.js"
   },
   "repository": {
     "type": "git",
