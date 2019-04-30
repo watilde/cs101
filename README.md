@@ -3,6 +3,7 @@
 ## Algorithms
 
 ### Sorting
+
 |Name|Minimum|Maximum|Average|
 |---|---|---|---|---|
 |Merge|O(n log n) typical, O(n) natural variant|O(n log n)|O(n log n)|
